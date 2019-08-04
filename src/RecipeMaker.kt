@@ -31,6 +31,8 @@ fun main() {
                         }
                     }
                     else -> {
+
+
                         println("Ingrese un numero entre el 1 al 8\n")
                     }
                 }
